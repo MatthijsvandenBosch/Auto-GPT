@@ -5,11 +5,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/siggravitas?style=social)](https://twitter.com/SigGravitas)
 
 <h4>Usage in short</h4>
-- conda create -n auto-gpt python=3.9
-- pip install -r requirements.txt
-- cp .env.template .env
-- conda activate auto-gpt
-- .\run.bat
+1. conda create -n auto-gpt python=3.9
+2. pip install -r requirements.txt
+3. cp .env.template .env
+4. conda activate auto-gpt
+5. .\run.bat
 
 ## 💡 Get help - [Q&A](https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
 
