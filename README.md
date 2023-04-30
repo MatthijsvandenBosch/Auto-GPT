@@ -4,6 +4,13 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/auto-gpt?style=social)](https://github.com/Significant-Gravitas/Auto-GPT/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/siggravitas?style=social)](https://twitter.com/SigGravitas)
 
+<h4>Usage in short</h4>
+- conda create -n auto-gpt python=3.9
+- pip install -r requirements.txt
+- cp .env.template .env
+- conda activate auto-gpt
+- .\run.bat
+
 ## 💡 Get help - [Q&A](https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
 
 <hr/>
