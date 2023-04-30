@@ -4,12 +4,12 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/auto-gpt?style=social)](https://github.com/Significant-Gravitas/Auto-GPT/stargazers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/siggravitas?style=social)](https://twitter.com/SigGravitas)
 
-<h4>Usage in short</h4>
-1. conda create -n auto-gpt python=3.9
-2. pip install -r requirements.txt
-3. cp .env.template .env
-4. conda activate auto-gpt
-5. .\run.bat
+<h4>Usage in short (run those commands in PowerShell)</h4>
+1. conda create -n auto-gpt python=3.9  <br />
+2. pip install -r requirements.txt  <br />
+3. cp .env.template .env  <br />
+4. conda activate auto-gpt  <br />
+5. .\run.bat  
 
 ## 💡 Get help - [Q&A](https://github.com/Significant-Gravitas/Auto-GPT/discussions/categories/q-a) or [Discord 💬](https://discord.gg/autogpt)
 
